@@ -59,8 +59,8 @@ def password_decode(e):
                     print('第' + str(i+1) + '位可能的值为:' + chr(c_maybe))
 
 
-# password_decode('H42n9Jw2PTefbwK')
-password_decode('0KcgeX92i0q0gPcQfXq7')
+password_decode('0KcgeX92iTefbwK')
+# password_decode('0KcgeX92i0q0gPcQfXq7')
 
 
 
